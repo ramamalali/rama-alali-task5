@@ -11,19 +11,19 @@
 .heighest{
     height: 86.7969px; 
     position: fixed !important;
-  
-}
-  .wrapper{
-    position: absolute;
     z-index: 100;
     width: 100%;
+  
 }
+
 
 .gap-2 {
     gap: 2rem !important;
 }
 
-
+.nav-container{
+    gap: 208px;
+}
 .active {
     color:  #207561 !important;
 }
@@ -151,14 +151,18 @@ position: relative;
     border-radius: 0 !important;
     color:rgb(219, 210, 210) !important ;
 }
+
+
+.footer-icon-container{
+    display: flex;
+    gap: 10px;
+}
 ul{
     list-style: none;
+    padding-left: 0 !important;
    
 }
-ul li{
-    padding-bottom: 1rem !important;
-   
-}
+
 ul li a{
     color: #666666 !important;
 }

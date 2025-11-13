@@ -20,7 +20,15 @@ This project was created as a training exercise to practice:
 - Bootstrap 5  
 
 ## Tree
+📂 project-root
+├── 📄 index.html
+├── 📂 assets
+│   ├── 📂 css
+│   │   └── 📄 style.css
+│   └── 📂 images
+├── 📄 README.md
 
+ 
 ## 🔮 Next Steps
 This project is a foundation for a more advanced personal portfolio, where I plan to add:
 - Dynamic project data  
@@ -28,7 +36,7 @@ This project is a foundation for a more advanced personal portfolio, where I pla
 - More advanced animations and interactivity
 
 ## 📂 Live Preview
-[Project link on GitHub Pages](#) *(Add the link once published)*
+[Project link on GitHub Pages](https://ramamalali.github.io/PortfoLearn/)
 
 ## 🤝 Contributions
 This is a training project, but feedback and suggestions are always welcome!
